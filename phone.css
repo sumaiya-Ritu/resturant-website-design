@@ -1,0 +1,55 @@
+/* nav */
+
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li a {
+    font-size: 1rem;
+    padding: 0px 7px;
+    /* padding-bottom: 500px; */
+}
+
+
+/* home */
+
+#home {
+    height: 550px;
+    padding: 3px 20px;
+}
+
+#home::before {
+    height: 600px;
+}
+
+#home p {
+    font-size: 14px;
+}
+
+
+/* services */
+
+#services {
+    flex-direction: column;
+}
+
+
+/* client */
+
+
+/* #clients {
+    overflow: hidden;
+} */
+
+
+/* conatct us  */
+
+
+/* footer */
+
+
+/* utility classes */
+
+.h-primary {
+    font-size: 26px;
+}
